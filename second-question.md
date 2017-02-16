@@ -1,8 +1,6 @@
-
-
 # 情報収集
 
-TechFeed
+[TechFeed](https://techfeed.io/)
 
 
 
