@@ -1,1 +1,8 @@
-This is the answer to "How can I do X?".
+
+
+# 情報収集
+
+TechFeed
+
+
+
