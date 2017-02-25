@@ -1,4 +1,10 @@
 私 \(@yasuhiroki\) のTips置き場。
 
-[![](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/yasuhiroki/yasuhiroki)
+* StackShare: [![](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/yasuhiroki/yasuhiroki)
+* GitHub: [yasuhiroki](https://github.com/yasuhiroki)
+* Qiita: [yasuhiroki](http://qiita.com/yasuhiroki)
+
+
+
+
 
