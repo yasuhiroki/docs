@@ -1,6 +1,6 @@
 # Profile
 
-* Yasuhiroki
+* Yasuhiroki [@duck\_yasuhiroki](https://twitter.com/duck_yasuhiroki)
 * 主に Backend の Webサービス開発エンジニア
 
 # Accounts
@@ -9,8 +9,6 @@
 * [stargzr](https://stargzr.net/users/yasuhiroki)
 * [GitHub](https://github.com/yasuhiroki)
 * [Qiita](https://qiita.com/yasuhiroki)
-
-
 
 
 
