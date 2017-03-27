@@ -14,10 +14,10 @@
 
 # Talk \(LT\)
 
-| **年月日** | **タイトル** | **場所** |
-| :---: | :--- | :--- |
-| 2016/11/10 | [コードレビューの文化を手探りで作っていった話](https://www.slideshare.net/yasuhirokiyota/ss-68577272) | [コード改善 meetup \#2](https://kaizen.connpass.com/event/42118/) |
-| 2017/03/18 | [分身の術](https://www.slideshare.net/yasuhirokiyota/ss-73260442) | [Productivity Engineering - Forkwell Meetup \#4](https://forkwell.connpass.com/event/51332/) |
+| **年月日** |    | **タイトル** |    | **場所** |
+| :--- | :--- | :--- | :--- | :--- |
+| 2016/11/10 |    | [コードレビューの文化を手探りで作っていった話](https://www.slideshare.net/yasuhirokiyota/ss-68577272) |    | [コード改善 meetup \#2](https://kaizen.connpass.com/event/42118/) |
+| 2017/03/18 |    | [分身の術](https://www.slideshare.net/yasuhirokiyota/ss-73260442) |    | [Productivity Engineering - Forkwell Meetup \#4](https://forkwell.connpass.com/event/51332/) |
 
 
 
