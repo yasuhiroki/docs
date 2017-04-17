@@ -13,6 +13,7 @@ map <C-u> scrollPageUp
 {
   "compilerOptions": {
     "module": "ES6",
+    "moduleResolution": "Node",
     "noImplicitAny": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
