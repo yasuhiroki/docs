@@ -11,7 +11,7 @@
     * IdeaVIMを入れているのでVimっぽくしたいので `C-x C-o` とした
       * `C-x C-o` はオムニ補完
 * Layoutの design と text の切り替え
-  * `Shift + Command + ← or →` 
+  * `Shift + Ctrl + ← or →` 
 * ファイラ
   * `Shift` を連打
 * エラー解決
@@ -20,7 +20,7 @@
 
 ### 参考
 
-* http://qiita.com/Tazake/items/5c725a8b68d13271d43d
+* [http://qiita.com/Tazake/items/5c725a8b68d13271d43d](http://qiita.com/Tazake/items/5c725a8b68d13271d43d)
 
 
 
