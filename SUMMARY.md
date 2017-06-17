@@ -5,4 +5,5 @@
 * [Snippets](/snippets.md)
 * [シェル芸](/shell.md)
 * [Profile](profile.md)
+* [android](android.md)
 
