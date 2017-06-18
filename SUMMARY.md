@@ -6,4 +6,5 @@
 * [シェル芸](/shell.md)
 * [Profile](profile.md)
 * [android](android.md)
+* [Vim](vim.md)
 
