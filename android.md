@@ -6,10 +6,15 @@
 ## ショートカット
 
 * Completion
-  * Ctrl + Space は Spotlight で使っているので変更
+  * `C-x C-o`
+    * Ctrl + Space は Spotlight で使っているので変更
     * Spotlightはアプリの切り替えに使っているので必要
     * IdeaVIMを入れているのでVimっぽくしたいので `C-x C-o` とした
       * `C-x C-o` はオムニ補完
+
+* Call Hierarchy
+  * `C-^`
+    * vim の tsuquyomi と同じようにしたくて
 * Layoutの design と text の切り替え
   * `Shift + Ctrl + ← or →` 
 * ファイラ
@@ -21,8 +26,6 @@
 ### 参考
 
 * [http://qiita.com/Tazake/items/5c725a8b68d13271d43d](http://qiita.com/Tazake/items/5c725a8b68d13271d43d)
-
-
 
 
 
