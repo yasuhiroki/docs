@@ -14,10 +14,18 @@
 
 # Talk \(LT\)
 
-| **年月日** |  | **タイトル** |  | **場所** |
-| ---: | :--- | :--- | :--- | :--- |
-| 2016/11/10 |  | [コードレビューの文化を手探りで作っていった話](https://www.slideshare.net/yasuhirokiyota/ss-68577272) |  | [コード改善 meetup \#2](https://kaizen.connpass.com/event/42118/) |
-| 2017/03/18 |  | [分身の術](https://www.slideshare.net/yasuhirokiyota/ss-73260442) |  | [Productivity Engineering - Forkwell Meetup \#4](https://forkwell.connpass.com/event/51332/) |
+* 2016/11/10 [コード改善 meetup \#2](#)
+  * [コードレビューの文化を手探りで作っていった話](#)
+
+* 2017/03/18 [Productivity Engineering - Forkwell Meetup \#4](https://forkwell.connpass.com/event/51332/)
+  * [分身の術](#)
+* 2017/06/29 [コード改善 meetup \#3](https://kaizen.connpass.com/event/58894/)
+
+  * [コードレビューの文化を少しずつ改善していった話](https://www.slideshare.net/yasuhirokiyota/ss-77375704)
+
+* 2017/07/02 [第29回シェル芸勉強会](https://blog.ueda.tech/?p=9922)
+
+  * [シェル芸術 &lt;クワイン編&gt;](http://qiita.com/yasuhiroki/items/7e66ffdca67e834f55a1)
 
 
 
