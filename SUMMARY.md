@@ -1,12 +1,10 @@
 # Summary
 
 * [TOP](README.md)
-* [Bookmark](/bookmark.md "Bookmark")
+* [Bookmark](/bookmark.md)
 * [Snippets](/snippets.md)
-* [シェル芸](/shell.md)
+* [Shell](/shell.md)
 * [Profile](profile.md)
 * [Android](android.md)
 * [Vim](vim.md)
-
-
 
