@@ -1,10 +1,3 @@
-# Vimium Key Mapping
-
-```
-map <C-d> scrollPageDown
-map <C-u> scrollPageUp
-```
-
 # tsconfig.json
 
 ## Node.js ES6 and TypeScript &gt; 2.2
@@ -60,7 +53,6 @@ map <C-u> scrollPageUp
 @yasuhiroki
 
 # License
-
 ```
 
 

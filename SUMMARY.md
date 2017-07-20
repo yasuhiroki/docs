@@ -7,4 +7,5 @@
 * [Profile](profile.md)
 * [Android](android.md)
 * [Vim](vim.md)
+* [Configuration](configuration.md)
 
