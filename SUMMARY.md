@@ -2,7 +2,6 @@
 
 * [TOP](README.md)
 * [Bookmark](/bookmark.md)
-* [Snippets](/snippets.md)
 * [Shell](/shell.md)
 * [Profile](profile.md)
 * [Android](android.md)
@@ -10,4 +9,6 @@
 * [Configuration](configuration.md)
 * [GitHub](github.md)
 * [JavaScript](javascript.md)
+
+
 
