@@ -8,4 +8,5 @@
 * [Android](android.md)
 * [Vim](vim.md)
 * [Configuration](configuration.md)
+* [GitHub](github.md)
 
