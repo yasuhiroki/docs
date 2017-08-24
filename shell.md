@@ -5,10 +5,12 @@
 ```sh
 #!/bin/bash
 
+SCRIPT_DIR="$(readlink -f $(dirname $0))"
+
 usage() {
 cat <<-EOH
   $0 [-a <aws_profile>] [-r <aws_region>] <template files... or directory>
-  
+
   options:
     -a: using aws profile
     -r: using aws region
@@ -32,8 +34,6 @@ do
 done
 shift $((OPTIND - 1))
 ```
-
-
 
 ## Trap
 
