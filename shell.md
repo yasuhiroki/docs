@@ -1,5 +1,40 @@
 # Shell
 
+## Snippets
+
+```sh
+#!/bin/bash
+
+usage() {
+cat <<-EOH
+  $0 [-a <aws_profile>] [-r <aws_region>] <template files... or directory>
+  
+  options:
+    -a: using aws profile
+    -r: using aws region
+EOH
+}
+
+while getopts a:r: OPT
+do
+  case $OPT in
+    a)
+      aws_profile="$OPTARG"
+      ;;
+    r)
+      aws_region="$OPTARG"
+      ;;
+    *)
+      usage
+      exit 1
+      ;;
+  esac
+done
+shift $((OPTIND - 1))
+```
+
+
+
 ## Trap
 
 ```
