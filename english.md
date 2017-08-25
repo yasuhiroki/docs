@@ -4,11 +4,9 @@
 
 ### WordAPI
 
-https://www.wordsapi.com/
+[https://www.wordsapi.com/](https://www.wordsapi.com/)
 
 ### Tthesaurus
 
-http://thesaurus.reference.com/
-
-
+http://www.thesaurus.com/
 
